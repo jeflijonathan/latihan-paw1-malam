@@ -1,12 +1,10 @@
----
-📁Struktur project
-|__🗃️assets
-|    |__📷images
-|       |__content1.png
-|    |__✨style
-|__about.html
-|__index.html
----
+📁project-root/
+|**🗃️assets
+| |**📷images
+| |**content1.png
+| |**✨style
+|**about.html
+|**index.html
 
 ## tutorial gitbash:
 
