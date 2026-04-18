@@ -1,10 +1,13 @@
+```bash
 📁project-root/
-|**🗃️assets
-| |**📷images
-| |**content1.png
-| |**✨style
-|**about.html
-|**index.html
+|--🗃️assets
+| |--📷images
+|    |--content1.png
+| |--✨style
+|    |--index.css
+|--about.html
+|--index.html
+```
 
 ## tutorial gitbash:
 
